@@ -9,7 +9,7 @@ const CollectionConfig: CollectionConfigInterface = {
   // The contract name can be updated using the following command:
   // yarn rename-contract NEW_CONTRACT_NAME
   // Please DO NOT change it manually!
-  contractName: 'FHTNFTTEST',
+  contractName: 'FrontlineHeroNFTs',
   tokenName: 'Frontline Heroes',
   tokenSymbol: 'FHNFTs',
   hiddenMetadataUri: 'ipfs://QmPmaJHMFZR4UueXnFkkCkgFHybMSTzpvi7e6dzKMXTiN5/reveal.json',
@@ -26,7 +26,7 @@ const CollectionConfig: CollectionConfigInterface = {
     price: 0.056,
     maxMintAmountPerTx: 50,
   },
-  contractAddress: "0x669D6cD9ECEC927F3fc8458Ed70dAf85b801248C",
+  contractAddress: "null",
   marketplaceIdentifier: 'my-nft-token',
   marketplaceConfig: Marketplaces.openSea,
   whitelistAddresses,
