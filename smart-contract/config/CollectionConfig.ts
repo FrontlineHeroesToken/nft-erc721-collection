@@ -12,7 +12,7 @@ const CollectionConfig: CollectionConfigInterface = {
   contractName: 'FHTNFTTEST',
   tokenName: 'Frontline Heroes TEST',
   tokenSymbol: 'FHNFTs',
-  hiddenMetadataUri: 'ipfs://QmRurvAdJj5KHYgUzDPQEx3CQR5jyikAiKG38sqYYLuXzG/reveal.json',
+  hiddenMetadataUri: 'ipfs://QmPmaJHMFZR4UueXnFkkCkgFHybMSTzpvi7e6dzKMXTiN5/reveal.json',
   maxSupply: 8000,
   whitelistSale: {
     price: 0.005,
