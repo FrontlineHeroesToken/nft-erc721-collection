@@ -10,7 +10,7 @@ const CollectionConfig: CollectionConfigInterface = {
   // yarn rename-contract NEW_CONTRACT_NAME
   // Please DO NOT change it manually!
   contractName: 'FHTNFTTEST',
-  tokenName: 'Frontline Heroes TEST',
+  tokenName: 'Frontline Heroes',
   tokenSymbol: 'FHNFTs',
   hiddenMetadataUri: 'ipfs://QmPmaJHMFZR4UueXnFkkCkgFHybMSTzpvi7e6dzKMXTiN5/reveal.json',
   maxSupply: 8000,
